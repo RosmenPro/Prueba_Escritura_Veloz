@@ -43,3 +43,7 @@ python3 prueba_escritura.py
 
 ## Contribuir
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, siéntete libre de crear un pull request.
+
+
+## Actualizaciones pendientes
+.Resultados en la GUI en lugar de en la terminal
