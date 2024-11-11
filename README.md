@@ -52,6 +52,13 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, siént
 
 - Resultados en la GUI en lugar de en la terminal
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
 ---
 
 # Typing Speed Test
@@ -107,4 +114,14 @@ Contributions are welcome. If you have any suggestions or improvements, feel fre
 ## Pending Updates
 
 - Results in the GUI instead of the terminal
+
+  ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
+
 
